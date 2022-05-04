@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">midika</string>
+    <string name="facebook_app_id">704902903999921</string>
+    <string name="facebook_client_token">dc4bfbc2279e837745b06815afd7bd0e</string>
+    <string name="fb_login_protocol_scheme">fb704902903999921</string>
+
+</resources>

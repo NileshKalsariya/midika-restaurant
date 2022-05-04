@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "693087190818",
+    "project_id": "midika-871f9",
+    "storage_bucket": "midika-871f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693087190818:android:5e1a684b816e4830de2f7b",
+        "android_client_info": {
+          "package_name": "com.midika.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693087190818-d1vkjfqhas8a1m2lvvaiji489ct6qd8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midika.customer",
+            "certificate_hash": "a038e2e59823f3f1139887b8108b007f84c754b0"
+          }
+        },
+        {
+          "client_id": "693087190818-hhgearpr74s4chcu74cn2gdtgg7e18in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midika.customer",
+            "certificate_hash": "5a7037283a47362356ef697204b9684b0544e06f"
+          }
+        },
+        {
+          "client_id": "693087190818-5d8tqa9uopt8iidllsoii386ksp4s6mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYB8a6bivs_wyuTB4vyAfIU5WxRG5ksI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693087190818-5d8tqa9uopt8iidllsoii386ksp4s6mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693087190818-7lbag2tobbp13f0h29pghkiansks6m5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midika.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693087190818:android:920c03b9b7de00d6de2f7b",
+        "android_client_info": {
+          "package_name": "com.midika.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693087190818-rreajguq39np11vl9uabl4fr260o5n9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midika.restaurant",
+            "certificate_hash": "a038e2e59823f3f1139887b8108b007f84c754b0"
+          }
+        },
+        {
+          "client_id": "693087190818-5d8tqa9uopt8iidllsoii386ksp4s6mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYB8a6bivs_wyuTB4vyAfIU5WxRG5ksI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693087190818-5d8tqa9uopt8iidllsoii386ksp4s6mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693087190818-7lbag2tobbp13f0h29pghkiansks6m5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midika.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
